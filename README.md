@@ -1,4 +1,4 @@
-# pic
+# 图库说明
 个人私有图片库，用于实现markdown图床上传
 
 ## img 文件夹
@@ -7,6 +7,6 @@
 ## blog 文件夹
 存放`blog.wuzhiping.top`网站的图片，使用jsdelivr进行CDN加速
 
-## Changelog
+# Changelog
 - 210730 新建`blog`文件夹
-- 
+- 210422 新建本仓库，配合`PicGo`进行测试
