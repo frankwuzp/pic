@@ -1,7 +1,7 @@
 ## 说明
-个人博客静态图片库，搭配 PicGo 实现图片上传
+个人网站静态图片库，搭配 PicGo 实现图片上传
 
-### img 文件夹（弃用）
+### img 文件夹（现已弃用）
 用于平时md写作时图片文件的存放
 
 ### blog 文件夹
@@ -14,5 +14,6 @@
 - [Hexo博客搭建超级指南 | Justlovesmile's BLOG](https://blog.justlovesmile.top/posts/c8972b63.html)
 
 ## Changelog
+- 210817 考虑转移到又拍云对象存储空间
 - 210730 新建`blog`文件夹
 - 210422 新建本仓库，配合`PicGo`进行测试
